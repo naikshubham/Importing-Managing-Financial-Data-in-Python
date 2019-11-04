@@ -26,3 +26,39 @@ amex = pd.read_csv('amex-listing.csv', na_values='n/a')
 ```python
 amex = pd.read_csv('amex-listing.csv', na_values='n/a', parse_dates=['Last Update'])
 ```
+
+### Import data from excel
+
+```python
+pd.read_excel(file, sheetname = 0)
+```
+
+- Select firstsheet by default with sheetname = 0 or select by name with `sheetname = 'amex`
+- Import several sheets with the list such as sheetname = ['amex', 'nasadaq']
+
+### Combine data from multiple worksheets
+- Concatenate or "stack" a list of pd.DataFrames
+- Syntax : pd.concat([amex, nasdaq, nyse])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
