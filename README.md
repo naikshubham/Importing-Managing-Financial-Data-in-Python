@@ -40,9 +40,11 @@ pd.read_excel(file, sheetname = 0)
 - Concatenate or "stack" a list of pd.DataFrames
 - Syntax : pd.concat([amex, nasdaq, nyse])
 
+### DataReader : Access financial data online
 
-
-
+- **`pandas_datareader**`** : provides easy access to various financial internet data sources
+- Available sources include : Yahoo! and Google Finance, Federal Reserve, World Bank, OECD, Eurostat, OANDA
+- 
 
 
 
