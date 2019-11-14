@@ -44,7 +44,35 @@ pd.read_excel(file, sheetname = 0)
 
 - **`pandas_datareader**`** : provides easy access to various financial internet data sources
 - Available sources include : Yahoo! and Google Finance, Federal Reserve, World Bank, OECD, Eurostat, OANDA
-- 
+
+### Import Stock prices for Google using Google Finance
+- Import the DataReader class from data module
+- **`Stock ticker`** is the unique symbol needed to get stock information for a certain company.
+
+### Economic data from Federal Reserve
+
+### Select stock based on criteria
+- Use the listing information to select specific stocks
+- Criteria : Stock exchange, Sector or Industry, IPO year, Market Capitalization
+
+### Retrive multiple stocks & manage a dataframe with multiple indices
+- We will be using listing information to select multiple stocks. eg.largest 3 stocks per sector
+- Then use Google Finance to retrieve data for several stocks
+
+#### Multiindex
+- Multiindex dataframe has two axis(rows & cols), the index can have multiple levels
+
+### Summarize categorical variables
+- So far, we have analyzed quantitative variables
+- Categorical variables differ because their values represent different categories
+- For numeric values we can apply different transformations(average)
+- Columns of dtype "object" are not numerical in nature, they are categorical
+
+
+## Aggregate data by category
+- Split data into groups, then summarize groups
+- Examples : Largest company by exchange, Median market capitalization per IPO year, average market capitalization per sector
+
 
 
 
