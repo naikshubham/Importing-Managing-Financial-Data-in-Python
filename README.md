@@ -73,6 +73,10 @@ pd.read_excel(file, sheetname = 0)
 - Split data into groups, then summarize groups
 - Examples : Largest company by exchange, Median market capitalization per IPO year, average market capitalization per sector
 
+### More ways to aggregate data
+- Group by two or more variables
+- Apply multiple aggregations
+- Examples : `Median market cap by sector and IPO year`, `Mean & Standard deviation of stock price by year`
 
 
 
