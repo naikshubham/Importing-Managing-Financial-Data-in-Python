@@ -78,6 +78,18 @@ pd.read_excel(file, sheetname = 0)
 - Apply multiple aggregations
 - Examples : `Median market cap by sector and IPO year`, `Mean & Standard deviation of stock price by year`
 
+### Summary statistics by category with seaborn
+- Specialized ways to plot combinations of categorical and numerical variables
+- Visualize estimates of summary statistics per category
+- Understand how categories impact numerical variables
+- Goal is the compare how changes in the categorical variables impacts numerical variables using key metrics of distributional characteristics
+- example : Mean market cap per Sector or IPO Year with the indication of dispersion
+
+### Distributions by category with seaborn
+- Visualize numerical variables broken down by categories
+- Visualize distribution of a variable differentiated by levels of a categorical variable to facilitate comparison
+- examples : visualize distributions of market cap by sector or IPO year
+- This type of visualization provides more details than summary stats
 
 
 
