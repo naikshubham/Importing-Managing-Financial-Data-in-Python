@@ -1,0 +1,667 @@
+﻿GameKey,Season,SeasonType,HomeTeam,VisitTeam
+1,2016,Pre,Indianapolis Colts,Green Bay Packers
+2,2016,Pre,Los Angeles Rams,Dallas Cowboys
+3,2016,Pre,Baltimore Ravens,Carolina Panthers
+4,2016,Pre,Green Bay Packers,Cleveland Browns
+5,2016,Pre,Chicago Bears,Denver Broncos
+6,2016,Pre,Pittsburgh Steelers,Detroit Lions
+7,2016,Pre,San Francisco 49ers,Houston Texans
+8,2016,Pre,Buffalo Bills,Indianapolis Colts
+9,2016,Pre,New York Jets,Jacksonville Jaguars
+10,2016,Pre,New York Giants,Miami Dolphins
+11,2016,Pre,Cincinnati Bengals,Minnesota Vikings
+12,2016,Pre,New England Patriots,New Orleans Saints
+13,2016,Pre,Arizona Cardinals,Oakland Raiders
+14,2016,Pre,Tennessee Titans,San Diego Chargers
+15,2016,Pre,Kansas City Chiefs,Seattle Seahawks
+16,2016,Pre,Philadelphia Eagles,Tampa Bay Buccaneers
+17,2016,Pre,Atlanta Falcons,Washington Redskins
+18,2016,Pre,San Diego Chargers,Arizona Cardinals
+19,2016,Pre,Cleveland Browns,Atlanta Falcons
+20,2016,Pre,Indianapolis Colts,Baltimore Ravens
+21,2016,Pre,Tennessee Titans,Carolina Panthers
+22,2016,Pre,New England Patriots,Chicago Bears
+23,2016,Pre,Detroit Lions,Cincinnati Bengals
+24,2016,Pre,Los Angeles Rams,Kansas City Chiefs
+25,2016,Pre,Dallas Cowboys,Miami Dolphins
+26,2016,Pre,Seattle Seahawks,Minnesota Vikings
+27,2016,Pre,Houston Texans,New Orleans Saints
+28,2016,Pre,Buffalo Bills,New York Giants
+29,2016,Pre,Washington Redskins,New York Jets
+30,2016,Pre,Green Bay Packers,Oakland Raiders
+31,2016,Pre,Pittsburgh Steelers,Philadelphia Eagles
+32,2016,Pre,Denver Broncos,San Francisco 49ers
+33,2016,Pre,Jacksonville Jaguars,Tampa Bay Buccaneers
+34,2016,Pre,Oakland Raiders,Tennessee Titans
+35,2016,Pre,Minnesota Vikings,San Diego Chargers
+36,2016,Pre,Houston Texans,Arizona Cardinals
+37,2016,Pre,Jacksonville Jaguars,Cincinnati Bengals
+38,2016,Pre,Washington Redskins,Buffalo Bills
+39,2016,Pre,Seattle Seahawks,Dallas Cowboys
+40,2016,Pre,Baltimore Ravens,Detroit Lions
+41,2016,Pre,San Francisco 49ers,Green Bay Packers
+42,2016,Pre,Chicago Bears,Kansas City Chiefs
+43,2016,Pre,Denver Broncos,Los Angeles Rams
+44,2016,Pre,Carolina Panthers,New England Patriots
+45,2016,Pre,New York Jets,New York Giants
+46,2016,Pre,Indianapolis Colts,Philadelphia Eagles
+47,2016,Pre,New Orleans Saints,Pittsburgh Steelers
+48,2016,Pre,Miami Dolphins,Atlanta Falcons
+49,2016,Pre,Tampa Bay Buccaneers,Cleveland Browns
+50,2016,Pre,Atlanta Falcons,Jacksonville Jaguars
+51,2016,Pre,Minnesota Vikings,Los Angeles Rams
+52,2016,Pre,New York Giants,New England Patriots
+53,2016,Pre,Philadelphia Eagles,New York Jets
+54,2016,Pre,Carolina Panthers,Pittsburgh Steelers
+55,2016,Pre,San Diego Chargers,San Francisco 49ers
+56,2016,Pre,Oakland Raiders,Seattle Seahawks
+57,2016,Pre,Miami Dolphins,Tennessee Titans
+58,2016,Pre,Tampa Bay Buccaneers,Washington Redskins
+59,2016,Pre,New Orleans Saints,Baltimore Ravens
+60,2016,Pre,Detroit Lions,Buffalo Bills
+61,2016,Pre,Cleveland Browns,Chicago Bears
+62,2016,Pre,Arizona Cardinals,Denver Broncos
+63,2016,Pre,Kansas City Chiefs,Green Bay Packers
+64,2016,Pre,Dallas Cowboys,Houston Texans
+65,2016,Pre,Cincinnati Bengals,Indianapolis Colts
+66,2016,Reg,Denver Broncos,Carolina Panthers
+67,2016,Reg,Atlanta Falcons,Tampa Bay Buccaneers
+68,2016,Reg,Baltimore Ravens,Buffalo Bills
+69,2016,Reg,Houston Texans,Chicago Bears
+70,2016,Reg,Jacksonville Jaguars,Green Bay Packers
+71,2016,Reg,Kansas City Chiefs,San Diego Chargers
+72,2016,Reg,New Orleans Saints,Oakland Raiders
+73,2016,Reg,New York Jets,Cincinnati Bengals
+74,2016,Reg,Philadelphia Eagles,Cleveland Browns
+75,2016,Reg,Tennessee Titans,Minnesota Vikings
+76,2016,Reg,Seattle Seahawks,Miami Dolphins
+77,2016,Reg,Dallas Cowboys,New York Giants
+78,2016,Reg,Indianapolis Colts,Detroit Lions
+79,2016,Reg,Arizona Cardinals,New England Patriots
+80,2016,Reg,Washington Redskins,Pittsburgh Steelers
+81,2016,Reg,San Francisco 49ers,Los Angeles Rams
+82,2016,Reg,Buffalo Bills,New York Jets
+83,2016,Reg,Carolina Panthers,San Francisco 49ers
+84,2016,Reg,Cleveland Browns,Baltimore Ravens
+85,2016,Reg,Detroit Lions,Tennessee Titans
+86,2016,Reg,Houston Texans,Kansas City Chiefs
+87,2016,Reg,New England Patriots,Miami Dolphins
+88,2016,Reg,New York Giants,New Orleans Saints
+89,2016,Reg,Pittsburgh Steelers,Cincinnati Bengals
+90,2016,Reg,Washington Redskins,Dallas Cowboys
+91,2016,Reg,Arizona Cardinals,Tampa Bay Buccaneers
+92,2016,Reg,Los Angeles Rams,Seattle Seahawks
+93,2016,Reg,Denver Broncos,Indianapolis Colts
+94,2016,Reg,Oakland Raiders,Atlanta Falcons
+95,2016,Reg,San Diego Chargers,Jacksonville Jaguars
+96,2016,Reg,Minnesota Vikings,Green Bay Packers
+97,2016,Reg,Chicago Bears,Philadelphia Eagles
+98,2016,Reg,New England Patriots,Houston Texans
+99,2016,Reg,Buffalo Bills,Arizona Cardinals
+100,2016,Reg,Carolina Panthers,Minnesota Vikings
+101,2016,Reg,Cincinnati Bengals,Denver Broncos
+102,2016,Reg,Green Bay Packers,Detroit Lions
+103,2016,Reg,Jacksonville Jaguars,Baltimore Ravens
+104,2016,Reg,Miami Dolphins,Cleveland Browns
+105,2016,Reg,New York Giants,Washington Redskins
+106,2016,Reg,Tennessee Titans,Oakland Raiders
+107,2016,Reg,Seattle Seahawks,San Francisco 49ers
+108,2016,Reg,Tampa Bay Buccaneers,Los Angeles Rams
+109,2016,Reg,Indianapolis Colts,San Diego Chargers
+110,2016,Reg,Kansas City Chiefs,New York Jets
+111,2016,Reg,Philadelphia Eagles,Pittsburgh Steelers
+112,2016,Reg,Dallas Cowboys,Chicago Bears
+113,2016,Reg,New Orleans Saints,Atlanta Falcons
+114,2016,Reg,Cincinnati Bengals,Miami Dolphins
+115,2016,Reg,Jacksonville Jaguars,Indianapolis Colts
+116,2016,Reg,Atlanta Falcons,Carolina Panthers
+117,2016,Reg,Baltimore Ravens,Oakland Raiders
+118,2016,Reg,Chicago Bears,Detroit Lions
+119,2016,Reg,Houston Texans,Tennessee Titans
+120,2016,Reg,New England Patriots,Buffalo Bills
+121,2016,Reg,New York Jets,Seattle Seahawks
+122,2016,Reg,Washington Redskins,Cleveland Browns
+123,2016,Reg,Tampa Bay Buccaneers,Denver Broncos
+124,2016,Reg,Arizona Cardinals,Los Angeles Rams
+125,2016,Reg,San Diego Chargers,New Orleans Saints
+126,2016,Reg,San Francisco 49ers,Dallas Cowboys
+127,2016,Reg,Pittsburgh Steelers,Kansas City Chiefs
+128,2016,Reg,Minnesota Vikings,New York Giants
+129,2016,Reg,San Francisco 49ers,Arizona Cardinals
+130,2016,Reg,Baltimore Ravens,Washington Redskins
+131,2016,Reg,Cleveland Browns,New England Patriots
+132,2016,Reg,Detroit Lions,Philadelphia Eagles
+133,2016,Reg,Indianapolis Colts,Chicago Bears
+134,2016,Reg,Miami Dolphins,Tennessee Titans
+135,2016,Reg,Minnesota Vikings,Houston Texans
+136,2016,Reg,Pittsburgh Steelers,New York Jets
+137,2016,Reg,Denver Broncos,Atlanta Falcons
+138,2016,Reg,Dallas Cowboys,Cincinnati Bengals
+139,2016,Reg,Los Angeles Rams,Buffalo Bills
+140,2016,Reg,Oakland Raiders,San Diego Chargers
+141,2016,Reg,Green Bay Packers,New York Giants
+142,2016,Reg,Carolina Panthers,Tampa Bay Buccaneers
+143,2016,Reg,San Diego Chargers,Denver Broncos
+144,2016,Reg,Buffalo Bills,San Francisco 49ers
+145,2016,Reg,Chicago Bears,Jacksonville Jaguars
+146,2016,Reg,Detroit Lions,Los Angeles Rams
+147,2016,Reg,Miami Dolphins,Pittsburgh Steelers
+148,2016,Reg,New England Patriots,Cincinnati Bengals
+149,2016,Reg,New Orleans Saints,Carolina Panthers
+150,2016,Reg,New York Giants,Baltimore Ravens
+151,2016,Reg,Tennessee Titans,Cleveland Browns
+152,2016,Reg,Washington Redskins,Philadelphia Eagles
+153,2016,Reg,Oakland Raiders,Kansas City Chiefs
+154,2016,Reg,Green Bay Packers,Dallas Cowboys
+155,2016,Reg,Seattle Seahawks,Atlanta Falcons
+156,2016,Reg,Houston Texans,Indianapolis Colts
+157,2016,Reg,Arizona Cardinals,New York Jets
+158,2016,Reg,Green Bay Packers,Chicago Bears
+159,2016,Reg,Los Angeles Rams,New York Giants
+160,2016,Reg,Cincinnati Bengals,Cleveland Browns
+161,2016,Reg,Detroit Lions,Washington Redskins
+162,2016,Reg,Jacksonville Jaguars,Oakland Raiders
+163,2016,Reg,Kansas City Chiefs,New Orleans Saints
+164,2016,Reg,Miami Dolphins,Buffalo Bills
+165,2016,Reg,New York Jets,Baltimore Ravens
+166,2016,Reg,Philadelphia Eagles,Minnesota Vikings
+167,2016,Reg,Tennessee Titans,Indianapolis Colts
+168,2016,Reg,Atlanta Falcons,San Diego Chargers
+169,2016,Reg,San Francisco 49ers,Tampa Bay Buccaneers
+170,2016,Reg,Pittsburgh Steelers,New England Patriots
+171,2016,Reg,Arizona Cardinals,Seattle Seahawks
+172,2016,Reg,Denver Broncos,Houston Texans
+173,2016,Reg,Tennessee Titans,Jacksonville Jaguars
+174,2016,Reg,Cincinnati Bengals,Washington Redskins
+175,2016,Reg,Atlanta Falcons,Green Bay Packers
+176,2016,Reg,Buffalo Bills,New England Patriots
+177,2016,Reg,Cleveland Browns,New York Jets
+178,2016,Reg,Houston Texans,Detroit Lions
+179,2016,Reg,Indianapolis Colts,Kansas City Chiefs
+180,2016,Reg,New Orleans Saints,Seattle Seahawks
+181,2016,Reg,Tampa Bay Buccaneers,Oakland Raiders
+182,2016,Reg,Denver Broncos,San Diego Chargers
+183,2016,Reg,Carolina Panthers,Arizona Cardinals
+184,2016,Reg,Dallas Cowboys,Philadelphia Eagles
+185,2016,Reg,Chicago Bears,Minnesota Vikings
+186,2016,Reg,Tampa Bay Buccaneers,Atlanta Falcons
+187,2016,Reg,Baltimore Ravens,Pittsburgh Steelers
+188,2016,Reg,Cleveland Browns,Dallas Cowboys
+189,2016,Reg,Kansas City Chiefs,Jacksonville Jaguars
+190,2016,Reg,Miami Dolphins,New York Jets
+191,2016,Reg,Minnesota Vikings,Detroit Lions
+192,2016,Reg,New York Giants,Philadelphia Eagles
+193,2016,Reg,Los Angeles Rams,Carolina Panthers
+194,2016,Reg,San Francisco 49ers,New Orleans Saints
+195,2016,Reg,Green Bay Packers,Indianapolis Colts
+196,2016,Reg,San Diego Chargers,Tennessee Titans
+197,2016,Reg,Oakland Raiders,Denver Broncos
+198,2016,Reg,Seattle Seahawks,Buffalo Bills
+199,2016,Reg,Baltimore Ravens,Cleveland Browns
+200,2016,Reg,Carolina Panthers,Kansas City Chiefs
+201,2016,Reg,Jacksonville Jaguars,Houston Texans
+202,2016,Reg,New Orleans Saints,Denver Broncos
+203,2016,Reg,New York Jets,Los Angeles Rams
+204,2016,Reg,Philadelphia Eagles,Atlanta Falcons
+205,2016,Reg,Tampa Bay Buccaneers,Chicago Bears
+206,2016,Reg,Tennessee Titans,Green Bay Packers
+207,2016,Reg,Washington Redskins,Minnesota Vikings
+208,2016,Reg,San Diego Chargers,Miami Dolphins
+209,2016,Reg,Arizona Cardinals,San Francisco 49ers
+210,2016,Reg,Pittsburgh Steelers,Dallas Cowboys
+211,2016,Reg,New England Patriots,Seattle Seahawks
+212,2016,Reg,New York Giants,Cincinnati Bengals
+213,2016,Reg,Carolina Panthers,New Orleans Saints
+214,2016,Reg,Cincinnati Bengals,Buffalo Bills
+215,2016,Reg,Cleveland Browns,Pittsburgh Steelers
+216,2016,Reg,Dallas Cowboys,Baltimore Ravens
+217,2016,Reg,Detroit Lions,Jacksonville Jaguars
+218,2016,Reg,Indianapolis Colts,Tennessee Titans
+219,2016,Reg,Kansas City Chiefs,Tampa Bay Buccaneers
+220,2016,Reg,Minnesota Vikings,Arizona Cardinals
+221,2016,Reg,New York Giants,Chicago Bears
+222,2016,Reg,Los Angeles Rams,Miami Dolphins
+223,2016,Reg,San Francisco 49ers,New England Patriots
+224,2016,Reg,Seattle Seahawks,Philadelphia Eagles
+225,2016,Reg,Washington Redskins,Green Bay Packers
+226,2016,Reg,Oakland Raiders,Houston Texans
+227,2016,Reg,Detroit Lions,Minnesota Vikings
+228,2016,Reg,Dallas Cowboys,Washington Redskins
+229,2016,Reg,Indianapolis Colts,Pittsburgh Steelers
+230,2016,Reg,Atlanta Falcons,Arizona Cardinals
+231,2016,Reg,Baltimore Ravens,Cincinnati Bengals
+232,2016,Reg,Buffalo Bills,Jacksonville Jaguars
+233,2016,Reg,Chicago Bears,Tennessee Titans
+234,2016,Reg,Cleveland Browns,New York Giants
+235,2016,Reg,Houston Texans,San Diego Chargers
+236,2016,Reg,Miami Dolphins,San Francisco 49ers
+237,2016,Reg,New Orleans Saints,Los Angeles Rams
+238,2016,Reg,Tampa Bay Buccaneers,Seattle Seahawks
+239,2016,Reg,Denver Broncos,Kansas City Chiefs
+240,2016,Reg,Oakland Raiders,Carolina Panthers
+241,2016,Reg,New York Jets,New England Patriots
+242,2016,Reg,Philadelphia Eagles,Green Bay Packers
+243,2016,Reg,Minnesota Vikings,Dallas Cowboys
+244,2016,Reg,Atlanta Falcons,Kansas City Chiefs
+245,2016,Reg,Baltimore Ravens,Miami Dolphins
+246,2016,Reg,Chicago Bears,San Francisco 49ers
+247,2016,Reg,Cincinnati Bengals,Philadelphia Eagles
+248,2016,Reg,Green Bay Packers,Houston Texans
+249,2016,Reg,Jacksonville Jaguars,Denver Broncos
+250,2016,Reg,New England Patriots,Los Angeles Rams
+251,2016,Reg,New Orleans Saints,Detroit Lions
+252,2016,Reg,Oakland Raiders,Buffalo Bills
+253,2016,Reg,Arizona Cardinals,Washington Redskins
+254,2016,Reg,Pittsburgh Steelers,New York Giants
+255,2016,Reg,San Diego Chargers,Tampa Bay Buccaneers
+256,2016,Reg,Seattle Seahawks,Carolina Panthers
+257,2016,Reg,New York Jets,Indianapolis Colts
+258,2016,Reg,Kansas City Chiefs,Oakland Raiders
+259,2016,Reg,Buffalo Bills,Pittsburgh Steelers
+260,2016,Reg,Carolina Panthers,San Diego Chargers
+261,2016,Reg,Cleveland Browns,Cincinnati Bengals
+262,2016,Reg,Detroit Lions,Chicago Bears
+263,2016,Reg,Indianapolis Colts,Houston Texans
+264,2016,Reg,Jacksonville Jaguars,Minnesota Vikings
+265,2016,Reg,Miami Dolphins,Arizona Cardinals
+266,2016,Reg,Philadelphia Eagles,Washington Redskins
+267,2016,Reg,Tampa Bay Buccaneers,New Orleans Saints
+268,2016,Reg,Tennessee Titans,Denver Broncos
+269,2016,Reg,San Francisco 49ers,New York Jets
+270,2016,Reg,Green Bay Packers,Seattle Seahawks
+271,2016,Reg,Los Angeles Rams,Atlanta Falcons
+272,2016,Reg,New York Giants,Dallas Cowboys
+273,2016,Reg,New England Patriots,Baltimore Ravens
+274,2016,Reg,Seattle Seahawks,Los Angeles Rams
+275,2016,Reg,New York Jets,Miami Dolphins
+276,2016,Reg,Baltimore Ravens,Philadelphia Eagles
+277,2016,Reg,Buffalo Bills,Cleveland Browns
+278,2016,Reg,Chicago Bears,Green Bay Packers
+279,2016,Reg,Dallas Cowboys,Tampa Bay Buccaneers
+280,2016,Reg,Houston Texans,Jacksonville Jaguars
+281,2016,Reg,Kansas City Chiefs,Tennessee Titans
+282,2016,Reg,Minnesota Vikings,Indianapolis Colts
+283,2016,Reg,New York Giants,Detroit Lions
+284,2016,Reg,Arizona Cardinals,New Orleans Saints
+285,2016,Reg,Atlanta Falcons,San Francisco 49ers
+286,2016,Reg,Denver Broncos,New England Patriots
+287,2016,Reg,San Diego Chargers,Oakland Raiders
+288,2016,Reg,Cincinnati Bengals,Pittsburgh Steelers
+289,2016,Reg,Washington Redskins,Carolina Panthers
+290,2016,Reg,Philadelphia Eagles,New York Giants
+291,2016,Reg,Buffalo Bills,Miami Dolphins
+292,2016,Reg,Carolina Panthers,Atlanta Falcons
+293,2016,Reg,Chicago Bears,Washington Redskins
+294,2016,Reg,Cleveland Browns,San Diego Chargers
+295,2016,Reg,Green Bay Packers,Minnesota Vikings
+296,2016,Reg,Jacksonville Jaguars,Tennessee Titans
+297,2016,Reg,New England Patriots,New York Jets
+298,2016,Reg,New Orleans Saints,Tampa Bay Buccaneers
+299,2016,Reg,Oakland Raiders,Indianapolis Colts
+300,2016,Reg,Los Angeles Rams,San Francisco 49ers
+301,2016,Reg,Seattle Seahawks,Arizona Cardinals
+302,2016,Reg,Houston Texans,Cincinnati Bengals
+303,2016,Reg,Pittsburgh Steelers,Baltimore Ravens
+304,2016,Reg,Kansas City Chiefs,Denver Broncos
+305,2016,Reg,Dallas Cowboys,Detroit Lions
+306,2016,Reg,Atlanta Falcons,New Orleans Saints
+307,2016,Reg,Cincinnati Bengals,Baltimore Ravens
+308,2016,Reg,Detroit Lions,Green Bay Packers
+309,2016,Reg,Indianapolis Colts,Jacksonville Jaguars
+310,2016,Reg,Miami Dolphins,New England Patriots
+311,2016,Reg,Minnesota Vikings,Chicago Bears
+312,2016,Reg,New York Jets,Buffalo Bills
+313,2016,Reg,Philadelphia Eagles,Dallas Cowboys
+314,2016,Reg,Pittsburgh Steelers,Cleveland Browns
+315,2016,Reg,Tampa Bay Buccaneers,Carolina Panthers
+316,2016,Reg,Tennessee Titans,Houston Texans
+317,2016,Reg,Washington Redskins,New York Giants
+318,2016,Reg,Denver Broncos,Oakland Raiders
+319,2016,Reg,Los Angeles Rams,Arizona Cardinals
+320,2016,Reg,San Diego Chargers,Kansas City Chiefs
+321,2016,Reg,San Francisco 49ers,Seattle Seahawks
+322,2016,Post,Houston Texans,Oakland Raiders
+323,2016,Post,Seattle Seahawks,Detroit Lions
+324,2016,Post,Pittsburgh Steelers,Miami Dolphins
+325,2016,Post,Green Bay Packers,New York Giants
+326,2016,Post,Atlanta Falcons,Seattle Seahawks
+327,2016,Post,New England Patriots,Houston Texans
+328,2016,Post,Kansas City Chiefs,Pittsburgh Steelers
+329,2016,Post,Dallas Cowboys,Green Bay Packers
+330,2016,Post,Atlanta Falcons,Green Bay Packers
+331,2016,Post,New England Patriots,Pittsburgh Steelers
+332,2016,Post,Atlanta Falcons,New England Patriots
+333,2016,Post,NFC,AFC
+334,2017,Pre,Dallas Cowboys,Arizona Cardinals
+335,2017,Pre,Arizona Cardinals,Oakland Raiders
+336,2017,Pre,Baltimore Ravens,Washington Redskins
+337,2017,Pre,Buffalo Bills,Minnesota Vikings
+338,2017,Pre,Carolina Panthers,Houston Texans
+339,2017,Pre,Chicago Bears,Denver Broncos
+340,2017,Pre,Cincinnati Bengals,Tampa Bay Buccaneers
+341,2017,Pre,Cleveland Browns,New Orleans Saints
+342,2017,Pre,Green Bay Packers,Philadelphia Eagles
+343,2017,Pre,Indianapolis Colts,Detroit Lions
+344,2017,Pre,Kansas City Chiefs,San Francisco 49ers
+345,2017,Pre,Los Angeles Chargers,Seattle Seahawks
+346,2017,Pre,Los Angeles Rams,Dallas Cowboys
+347,2017,Pre,Miami Dolphins,Atlanta Falcons
+348,2017,Pre,New England Patriots,Jacksonville Jaguars
+349,2017,Pre,New York Giants,Pittsburgh Steelers
+350,2017,Pre,New York Jets,Tennessee Titans
+351,2017,Pre,Jacksonville Jaguars,Tampa Bay Buccaneers
+352,2017,Pre,Arizona Cardinals,Chicago Bears
+353,2017,Pre,Cincinnati Bengals,Kansas City Chiefs
+354,2017,Pre,Dallas Cowboys,Indianapolis Colts
+355,2017,Pre,Houston Texans,New England Patriots
+356,2017,Pre,Los Angeles Chargers,New Orleans Saints
+357,2017,Pre,Miami Dolphins,Baltimore Ravens
+358,2017,Pre,Oakland Raiders,Los Angeles Rams
+359,2017,Pre,Philadelphia Eagles,Buffalo Bills
+360,2017,Pre,Pittsburgh Steelers,Atlanta Falcons
+361,2017,Pre,San Francisco 49ers,Denver Broncos
+362,2017,Pre,Seattle Seahawks,Minnesota Vikings
+363,2017,Pre,Tennessee Titans,Carolina Panthers
+364,2017,Pre,Washington Redskins,Green Bay Packers
+365,2017,Pre,Detroit Lions,New York Jets
+366,2017,Pre,Cleveland Browns,New York Giants
+367,2017,Pre,Atlanta Falcons,Arizona Cardinals
+368,2017,Pre,Baltimore Ravens,Buffalo Bills
+369,2017,Pre,Dallas Cowboys,Oakland Raiders
+370,2017,Pre,Denver Broncos,Green Bay Packers
+371,2017,Pre,Detroit Lions,New England Patriots
+372,2017,Pre,Jacksonville Jaguars,Carolina Panthers
+373,2017,Pre,New Orleans Saints,Houston Texans
+374,2017,Pre,Philadelphia Eagles,Miami Dolphins
+375,2017,Pre,Pittsburgh Steelers,Indianapolis Colts
+376,2017,Pre,Tampa Bay Buccaneers,Cleveland Browns
+377,2017,Pre,Seattle Seahawks,Kansas City Chiefs
+378,2017,Pre,New York Giants,New York Jets
+379,2017,Pre,Los Angeles Rams,Los Angeles Chargers
+380,2017,Pre,Tennessee Titans,Chicago Bears
+381,2017,Pre,Washington Redskins,Cincinnati Bengals
+382,2017,Pre,Minnesota Vikings,San Francisco 49ers
+383,2017,Pre,New York Jets,Philadelphia Eagles
+384,2017,Pre,Atlanta Falcons,Jacksonville Jaguars
+385,2017,Pre,Buffalo Bills,Detroit Lions
+386,2017,Pre,Carolina Panthers,Pittsburgh Steelers
+387,2017,Pre,Chicago Bears,Cleveland Browns
+388,2017,Pre,Denver Broncos,Arizona Cardinals
+389,2017,Pre,Green Bay Packers,Los Angeles Rams
+390,2017,Pre,Houston Texans,Dallas Cowboys
+391,2017,Pre,Indianapolis Colts,Cincinnati Bengals
+392,2017,Pre,Kansas City Chiefs,Tennessee Titans
+393,2017,Pre,Minnesota Vikings,Miami Dolphins
+394,2017,Pre,New England Patriots,New York Giants
+395,2017,Pre,New Orleans Saints,Baltimore Ravens
+396,2017,Pre,Oakland Raiders,Seattle Seahawks
+397,2017,Pre,San Francisco 49ers,Los Angeles Chargers
+398,2017,Pre,Tampa Bay Buccaneers,Washington Redskins
+399,2017,Reg,New England Patriots,Kansas City Chiefs
+400,2017,Reg,Buffalo Bills,New York Jets
+401,2017,Reg,Chicago Bears,Atlanta Falcons
+402,2017,Reg,Cincinnati Bengals,Baltimore Ravens
+403,2017,Reg,Cleveland Browns,Pittsburgh Steelers
+404,2017,Reg,Detroit Lions,Arizona Cardinals
+405,2017,Reg,Houston Texans,Jacksonville Jaguars
+406,2017,Reg,Miami Dolphins,Tampa Bay Buccaneers
+407,2017,Reg,Tennessee Titans,Oakland Raiders
+408,2017,Reg,Washington Redskins,Philadelphia Eagles
+409,2017,Reg,Los Angeles Rams,Indianapolis Colts
+410,2017,Reg,Green Bay Packers,Seattle Seahawks
+411,2017,Reg,San Francisco 49ers,Carolina Panthers
+412,2017,Reg,Dallas Cowboys,New York Giants
+413,2017,Reg,Minnesota Vikings,New Orleans Saints
+414,2017,Reg,Denver Broncos,Los Angeles Chargers
+415,2017,Reg,Cincinnati Bengals,Houston Texans
+416,2017,Reg,Baltimore Ravens,Cleveland Browns
+417,2017,Reg,Carolina Panthers,Buffalo Bills
+418,2017,Reg,Indianapolis Colts,Arizona Cardinals
+419,2017,Reg,Jacksonville Jaguars,Tennessee Titans
+420,2017,Reg,Kansas City Chiefs,Philadelphia Eagles
+421,2017,Reg,New Orleans Saints,New England Patriots
+422,2017,Reg,Pittsburgh Steelers,Minnesota Vikings
+423,2017,Reg,Tampa Bay Buccaneers,Chicago Bears
+424,2017,Reg,Los Angeles Chargers,Miami Dolphins
+425,2017,Reg,Oakland Raiders,New York Jets
+426,2017,Reg,Denver Broncos,Dallas Cowboys
+427,2017,Reg,Los Angeles Rams,Washington Redskins
+428,2017,Reg,Seattle Seahawks,San Francisco 49ers
+429,2017,Reg,Atlanta Falcons,Green Bay Packers
+430,2017,Reg,New York Giants,Detroit Lions
+431,2017,Reg,San Francisco 49ers,Los Angeles Rams
+432,2017,Reg,Jacksonville Jaguars,Baltimore Ravens
+433,2017,Reg,Buffalo Bills,Denver Broncos
+434,2017,Reg,Carolina Panthers,New Orleans Saints
+435,2017,Reg,Chicago Bears,Pittsburgh Steelers
+436,2017,Reg,Detroit Lions,Atlanta Falcons
+437,2017,Reg,Indianapolis Colts,Cleveland Browns
+438,2017,Reg,Minnesota Vikings,Tampa Bay Buccaneers
+439,2017,Reg,New England Patriots,Houston Texans
+440,2017,Reg,New York Jets,Miami Dolphins
+441,2017,Reg,Philadelphia Eagles,New York Giants
+442,2017,Reg,Tennessee Titans,Seattle Seahawks
+443,2017,Reg,Green Bay Packers,Cincinnati Bengals
+444,2017,Reg,Los Angeles Chargers,Kansas City Chiefs
+445,2017,Reg,Washington Redskins,Oakland Raiders
+446,2017,Reg,Arizona Cardinals,Dallas Cowboys
+447,2017,Reg,Green Bay Packers,Chicago Bears
+448,2017,Reg,Miami Dolphins,New Orleans Saints
+449,2017,Reg,Atlanta Falcons,Buffalo Bills
+450,2017,Reg,Baltimore Ravens,Pittsburgh Steelers
+451,2017,Reg,Cleveland Browns,Cincinnati Bengals
+452,2017,Reg,Dallas Cowboys,Los Angeles Rams
+453,2017,Reg,Houston Texans,Tennessee Titans
+454,2017,Reg,Minnesota Vikings,Detroit Lions
+455,2017,Reg,New England Patriots,Carolina Panthers
+456,2017,Reg,New York Jets,Jacksonville Jaguars
+457,2017,Reg,Arizona Cardinals,San Francisco 49ers
+458,2017,Reg,Los Angeles Chargers,Philadelphia Eagles
+459,2017,Reg,Tampa Bay Buccaneers,New York Giants
+460,2017,Reg,Denver Broncos,Oakland Raiders
+461,2017,Reg,Seattle Seahawks,Indianapolis Colts
+462,2017,Reg,Kansas City Chiefs,Washington Redskins
+463,2017,Reg,Tampa Bay Buccaneers,New England Patriots
+464,2017,Reg,Cincinnati Bengals,Buffalo Bills
+465,2017,Reg,Cleveland Browns,New York Jets
+466,2017,Reg,Detroit Lions,Carolina Panthers
+467,2017,Reg,Indianapolis Colts,San Francisco 49ers
+468,2017,Reg,Miami Dolphins,Tennessee Titans
+469,2017,Reg,New York Giants,Los Angeles Chargers
+470,2017,Reg,Philadelphia Eagles,Arizona Cardinals
+471,2017,Reg,Pittsburgh Steelers,Jacksonville Jaguars
+472,2017,Reg,Los Angeles Rams,Seattle Seahawks
+473,2017,Reg,Oakland Raiders,Baltimore Ravens
+474,2017,Reg,Dallas Cowboys,Green Bay Packers
+475,2017,Reg,Houston Texans,Kansas City Chiefs
+476,2017,Reg,Chicago Bears,Minnesota Vikings
+477,2017,Reg,Carolina Panthers,Philadelphia Eagles
+478,2017,Reg,Atlanta Falcons,Miami Dolphins
+479,2017,Reg,Baltimore Ravens,Chicago Bears
+480,2017,Reg,Houston Texans,Cleveland Browns
+481,2017,Reg,Minnesota Vikings,Green Bay Packers
+482,2017,Reg,New Orleans Saints,Detroit Lions
+483,2017,Reg,New York Jets,New England Patriots
+484,2017,Reg,Washington Redskins,San Francisco 49ers
+485,2017,Reg,Arizona Cardinals,Tampa Bay Buccaneers
+486,2017,Reg,Jacksonville Jaguars,Los Angeles Rams
+487,2017,Reg,Kansas City Chiefs,Pittsburgh Steelers
+488,2017,Reg,Oakland Raiders,Los Angeles Chargers
+489,2017,Reg,Denver Broncos,New York Giants
+490,2017,Reg,Tennessee Titans,Indianapolis Colts
+491,2017,Reg,Oakland Raiders,Kansas City Chiefs
+492,2017,Reg,Buffalo Bills,Tampa Bay Buccaneers
+493,2017,Reg,Chicago Bears,Carolina Panthers
+494,2017,Reg,Cleveland Browns,Tennessee Titans
+495,2017,Reg,Green Bay Packers,New Orleans Saints
+496,2017,Reg,Indianapolis Colts,Jacksonville Jaguars
+497,2017,Reg,Los Angeles Rams,Arizona Cardinals
+498,2017,Reg,Miami Dolphins,New York Jets
+499,2017,Reg,Minnesota Vikings,Baltimore Ravens
+500,2017,Reg,Pittsburgh Steelers,Cincinnati Bengals
+501,2017,Reg,San Francisco 49ers,Dallas Cowboys
+502,2017,Reg,Los Angeles Chargers,Denver Broncos
+503,2017,Reg,New York Giants,Seattle Seahawks
+504,2017,Reg,New England Patriots,Atlanta Falcons
+505,2017,Reg,Philadelphia Eagles,Washington Redskins
+506,2017,Reg,Baltimore Ravens,Miami Dolphins
+507,2017,Reg,Cleveland Browns,Minnesota Vikings
+508,2017,Reg,Buffalo Bills,Oakland Raiders
+509,2017,Reg,Cincinnati Bengals,Indianapolis Colts
+510,2017,Reg,New England Patriots,Los Angeles Chargers
+511,2017,Reg,New Orleans Saints,Chicago Bears
+512,2017,Reg,New York Jets,Atlanta Falcons
+513,2017,Reg,Philadelphia Eagles,San Francisco 49ers
+514,2017,Reg,Tampa Bay Buccaneers,Carolina Panthers
+515,2017,Reg,Seattle Seahawks,Houston Texans
+516,2017,Reg,Washington Redskins,Dallas Cowboys
+517,2017,Reg,Detroit Lions,Pittsburgh Steelers
+518,2017,Reg,Kansas City Chiefs,Denver Broncos
+519,2017,Reg,New York Jets,Buffalo Bills
+520,2017,Reg,Carolina Panthers,Atlanta Falcons
+521,2017,Reg,Houston Texans,Indianapolis Colts
+522,2017,Reg,Jacksonville Jaguars,Cincinnati Bengals
+523,2017,Reg,New Orleans Saints,Tampa Bay Buccaneers
+524,2017,Reg,New York Giants,Los Angeles Rams
+525,2017,Reg,Philadelphia Eagles,Denver Broncos
+526,2017,Reg,Tennessee Titans,Baltimore Ravens
+527,2017,Reg,San Francisco 49ers,Arizona Cardinals
+528,2017,Reg,Seattle Seahawks,Washington Redskins
+529,2017,Reg,Dallas Cowboys,Kansas City Chiefs
+530,2017,Reg,Miami Dolphins,Oakland Raiders
+531,2017,Reg,Green Bay Packers,Detroit Lions
+532,2017,Reg,Arizona Cardinals,Seattle Seahawks
+533,2017,Reg,Buffalo Bills,New Orleans Saints
+534,2017,Reg,Chicago Bears,Green Bay Packers
+535,2017,Reg,Detroit Lions,Cleveland Browns
+536,2017,Reg,Indianapolis Colts,Pittsburgh Steelers
+537,2017,Reg,Jacksonville Jaguars,Los Angeles Chargers
+538,2017,Reg,Tampa Bay Buccaneers,New York Jets
+539,2017,Reg,Tennessee Titans,Cincinnati Bengals
+540,2017,Reg,Washington Redskins,Minnesota Vikings
+541,2017,Reg,Los Angeles Rams,Houston Texans
+542,2017,Reg,Atlanta Falcons,Dallas Cowboys
+543,2017,Reg,San Francisco 49ers,New York Giants
+544,2017,Reg,Denver Broncos,New England Patriots
+545,2017,Reg,Carolina Panthers,Miami Dolphins
+546,2017,Reg,Pittsburgh Steelers,Tennessee Titans
+547,2017,Reg,Chicago Bears,Detroit Lions
+548,2017,Reg,Cleveland Browns,Jacksonville Jaguars
+549,2017,Reg,Green Bay Packers,Baltimore Ravens
+550,2017,Reg,Houston Texans,Arizona Cardinals
+551,2017,Reg,Minnesota Vikings,Los Angeles Rams
+552,2017,Reg,New Orleans Saints,Washington Redskins
+553,2017,Reg,New York Giants,Kansas City Chiefs
+554,2017,Reg,Los Angeles Chargers,Buffalo Bills
+555,2017,Reg,Denver Broncos,Cincinnati Bengals
+556,2017,Reg,Oakland Raiders,New England Patriots
+557,2017,Reg,Dallas Cowboys,Philadelphia Eagles
+558,2017,Reg,Seattle Seahawks,Atlanta Falcons
+559,2017,Reg,Detroit Lions,Minnesota Vikings
+560,2017,Reg,Dallas Cowboys,Los Angeles Chargers
+561,2017,Reg,Washington Redskins,New York Giants
+562,2017,Reg,Atlanta Falcons,Tampa Bay Buccaneers
+563,2017,Reg,Cincinnati Bengals,Cleveland Browns
+564,2017,Reg,Indianapolis Colts,Tennessee Titans
+565,2017,Reg,Kansas City Chiefs,Buffalo Bills
+566,2017,Reg,New England Patriots,Miami Dolphins
+567,2017,Reg,New York Jets,Carolina Panthers
+568,2017,Reg,Philadelphia Eagles,Chicago Bears
+569,2017,Reg,Los Angeles Rams,New Orleans Saints
+570,2017,Reg,San Francisco 49ers,Seattle Seahawks
+571,2017,Reg,Arizona Cardinals,Jacksonville Jaguars
+572,2017,Reg,Oakland Raiders,Denver Broncos
+573,2017,Reg,Pittsburgh Steelers,Green Bay Packers
+574,2017,Reg,Baltimore Ravens,Houston Texans
+575,2017,Reg,Dallas Cowboys,Washington Redskins
+576,2017,Reg,Atlanta Falcons,Minnesota Vikings
+577,2017,Reg,Baltimore Ravens,Detroit Lions
+578,2017,Reg,Buffalo Bills,New England Patriots
+579,2017,Reg,Chicago Bears,San Francisco 49ers
+580,2017,Reg,Green Bay Packers,Tampa Bay Buccaneers
+581,2017,Reg,Jacksonville Jaguars,Indianapolis Colts
+582,2017,Reg,Miami Dolphins,Denver Broncos
+583,2017,Reg,New Orleans Saints,Carolina Panthers
+584,2017,Reg,New York Jets,Kansas City Chiefs
+585,2017,Reg,Tennessee Titans,Houston Texans
+586,2017,Reg,Los Angeles Chargers,Cleveland Browns
+587,2017,Reg,Arizona Cardinals,Los Angeles Rams
+588,2017,Reg,Oakland Raiders,New York Giants
+589,2017,Reg,Seattle Seahawks,Philadelphia Eagles
+590,2017,Reg,Cincinnati Bengals,Pittsburgh Steelers
+591,2017,Reg,Atlanta Falcons,New Orleans Saints
+592,2017,Reg,Buffalo Bills,Indianapolis Colts
+593,2017,Reg,Carolina Panthers,Minnesota Vikings
+594,2017,Reg,Cincinnati Bengals,Chicago Bears
+595,2017,Reg,Cleveland Browns,Green Bay Packers
+596,2017,Reg,Houston Texans,San Francisco 49ers
+597,2017,Reg,Jacksonville Jaguars,Seattle Seahawks
+598,2017,Reg,Kansas City Chiefs,Oakland Raiders
+599,2017,Reg,Tampa Bay Buccaneers,Detroit Lions
+600,2017,Reg,Arizona Cardinals,Tennessee Titans
+601,2017,Reg,Denver Broncos,New York Jets
+602,2017,Reg,Los Angeles Chargers,Washington Redskins
+603,2017,Reg,Los Angeles Rams,Philadelphia Eagles
+604,2017,Reg,New York Giants,Dallas Cowboys
+605,2017,Reg,Pittsburgh Steelers,Baltimore Ravens
+606,2017,Reg,Miami Dolphins,New England Patriots
+607,2017,Reg,Indianapolis Colts,Denver Broncos
+608,2017,Reg,Detroit Lions,Chicago Bears
+609,2017,Reg,Kansas City Chiefs,Los Angeles Chargers
+610,2017,Reg,Buffalo Bills,Miami Dolphins
+611,2017,Reg,Carolina Panthers,Green Bay Packers
+612,2017,Reg,Cleveland Browns,Baltimore Ravens
+613,2017,Reg,Jacksonville Jaguars,Houston Texans
+614,2017,Reg,Minnesota Vikings,Cincinnati Bengals
+615,2017,Reg,New Orleans Saints,New York Jets
+616,2017,Reg,New York Giants,Philadelphia Eagles
+617,2017,Reg,Washington Redskins,Arizona Cardinals
+618,2017,Reg,Seattle Seahawks,Los Angeles Rams
+619,2017,Reg,Pittsburgh Steelers,New England Patriots
+620,2017,Reg,San Francisco 49ers,Tennessee Titans
+621,2017,Reg,Oakland Raiders,Dallas Cowboys
+622,2017,Reg,Tampa Bay Buccaneers,Atlanta Falcons
+623,2017,Reg,Baltimore Ravens,Indianapolis Colts
+624,2017,Reg,Green Bay Packers,Minnesota Vikings
+625,2017,Reg,Carolina Panthers,Tampa Bay Buccaneers
+626,2017,Reg,Chicago Bears,Cleveland Browns
+627,2017,Reg,Cincinnati Bengals,Detroit Lions
+628,2017,Reg,Kansas City Chiefs,Miami Dolphins
+629,2017,Reg,New England Patriots,Buffalo Bills
+630,2017,Reg,New Orleans Saints,Atlanta Falcons
+631,2017,Reg,New York Jets,Los Angeles Chargers
+632,2017,Reg,Tennessee Titans,Los Angeles Rams
+633,2017,Reg,Washington Redskins,Denver Broncos
+634,2017,Reg,San Francisco 49ers,Jacksonville Jaguars
+635,2017,Reg,Arizona Cardinals,New York Giants
+636,2017,Reg,Dallas Cowboys,Seattle Seahawks
+637,2017,Reg,Houston Texans,Pittsburgh Steelers
+638,2017,Reg,Philadelphia Eagles,Oakland Raiders
+639,2017,Reg,Atlanta Falcons,Carolina Panthers
+640,2017,Reg,Baltimore Ravens,Cincinnati Bengals
+641,2017,Reg,Detroit Lions,Green Bay Packers
+642,2017,Reg,Indianapolis Colts,Houston Texans
+643,2017,Reg,Miami Dolphins,Buffalo Bills
+644,2017,Reg,Minnesota Vikings,Chicago Bears
+645,2017,Reg,New England Patriots,New York Jets
+646,2017,Reg,New York Giants,Washington Redskins
+647,2017,Reg,Philadelphia Eagles,Dallas Cowboys
+648,2017,Reg,Pittsburgh Steelers,Cleveland Browns
+649,2017,Reg,Tampa Bay Buccaneers,New Orleans Saints
+650,2017,Reg,Tennessee Titans,Jacksonville Jaguars
+651,2017,Reg,Denver Broncos,Kansas City Chiefs
+652,2017,Reg,Los Angeles Chargers,Oakland Raiders
+653,2017,Reg,Los Angeles Rams,San Francisco 49ers
+654,2017,Reg,Seattle Seahawks,Arizona Cardinals
+655,2017,Post,Kansas City Chiefs,Tennessee Titans
+656,2017,Post,Los Angeles Rams,Atlanta Falcons
+657,2017,Post,Jacksonville Jaguars,Buffalo Bills
+658,2017,Post,New Orleans Saints,Carolina Panthers
+659,2017,Post,Philadelphia Eagles,Atlanta Falcons
+660,2017,Post,New England Patriots,Tennessee Titans
+661,2017,Post,Pittsburgh Steelers,Jacksonville Jaguars
+662,2017,Post,Minnesota Vikings,New Orleans Saints
+663,2017,Post,New England Patriots,Jacksonville Jaguars
+664,2017,Post,Philadelphia Eagles,Minnesota Vikings
+665,2017,Post,New England Patriots,Philadelphia Eagles
+666,2017,Post,AFC,NFC
